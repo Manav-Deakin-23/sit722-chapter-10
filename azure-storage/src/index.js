@@ -20,7 +20,7 @@ if (!process.env.STORAGE_ACCESS_KEY) {
 //
 // Extracts environment variables to globals for convenience.
 //
-
+//
 const PORT = process.env.PORT;
 const STORAGE_ACCOUNT_NAME = process.env.STORAGE_ACCOUNT_NAME;
 const STORAGE_ACCESS_KEY = process.env.STORAGE_ACCESS_KEY;
